@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TECH MEMO
 subtitle:
-description:
-author: John Doe
-language:
-timezone:
+description: 開発技術に関する情報を個人的にまとめて、発信していきます。
+author: DAJINING
+language: ja
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://dajining.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -41,7 +41,7 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace:
+  tab_replace: 
 
 # Category & Tag
 default_category: uncategorized
